@@ -1,0 +1,6 @@
+{
+	"name": "mamathaintegrationruntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
